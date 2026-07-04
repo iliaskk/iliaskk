@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilias! 
 
-I am an Electrical and Computer Engineering (ECE) student with a deep passion for Embedded Systems and Low-Level Programming. 
+I am a 1st Year Electrical and Computer Engineering (ECE) student with a deep passion for Embedded Systems and Low-Level Programming. 
 
 ## 🛠️ What I'm doing right now:
 * Mastering the foundations of C/C++ programming and Git/GitHub workflows.
